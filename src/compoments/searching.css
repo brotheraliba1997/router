@@ -1,0 +1,27 @@
+.searchinginput{
+   max-width: 60%;
+    border-radius: 10px;
+    margin-left: 40px;
+    max-height: 40px;
+    width: 600px;
+    height: 40px;
+}
+
+
+.Zevi{
+    float: right;
+    margin-top: 20px; 
+}
+
+.heading-p{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.checked {
+    color: orange;
+  }
+
+  .spacing-icon{
+    float: right;
+  }
